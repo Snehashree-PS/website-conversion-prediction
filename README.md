@@ -6,6 +6,9 @@ To predict whether a website visitor will make a purchase based on their browsin
 ## Dataset
 Online Shoppers Intention Dataset (Kaggle)
 
+Dataset Link:
+https://www.kaggle.com/datasets/henrysue/online-shoppers-intention
+
 ## Model Used
 Random Forest Classifier
 
